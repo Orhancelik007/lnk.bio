@@ -16,7 +16,7 @@ Lnk.bio, kullanıcıların tüm dijital bağlantılarını tek bir sayfada topla
 
 1. [Gereksinim Analizi](./lnk.bio/Gereksinim%20Analizi.md)
 2. [Durum Diyagramı]
-3. Durum Senaryoları(./durum%20senaryoları.md)
+3. [Durum Senaryoları](./durum%20senaryoları.md)
 4. Front-End
 5. Back-End
 6. Video Sunum
