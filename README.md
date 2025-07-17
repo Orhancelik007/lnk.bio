@@ -9,16 +9,13 @@ hesaplarınızı veya paylaşmak istediğiniz diğer siteleri tek bir yerde topl
 
 **Uygulama Adresi:** 
 
-**Grup Adı:** Orhan Çelik
+**Grup Adı:** BioLinker
 
 **Proje Ekibi:** Orhan Çelik
 
-1. [Proje Planı](./chart.xlsx)
-2. [Gereksinim Analizi](./Gereksinim%20Analizi.md)
-3. [Durum Diyagramı](./DurumDiyagrami.png)
-4. [Durum Senaryoları](./Durum%20Senaryoları.md)
-5. [Veritabanı Diyagramı](./db.png)
-6. [Front-End](./Front-end.md)
-7. [Back-End](./Back-end.md)
-8. Test
-9. [Geliştirici ve Kullanıcı Dökümantasyonları](./Geliştirici-Kullanıcı-Dökümantasyonu.md)
+1. [Gereksinim Analizi](./Gereksinim%20Analizi.md)
+2. [Durum Diyagramı](./DurumDiyagrami.png)
+3. [Durum Senaryoları](./Durum%20Senaryoları.md)
+4. [Front-End](./Front-end.md)
+5. [Back-End](./Back-end.md)
+6. Video Sunum
