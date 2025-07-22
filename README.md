@@ -18,4 +18,4 @@ hesaplarınızı veya paylaşmak istediğiniz diğer siteleri tek bir yerde topl
 3. [Durum Senaryoları](./Durum%20Senaryoları.md)
 4. [Front-End](./Front-end.md)
 5. [Back-End](./Back-end.md)
-6. [Video Sunum]()
+6. [Video Sunum](https://youtu.be/EORQCYVSMGc)
